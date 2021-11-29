@@ -8,7 +8,7 @@
 <h4 align="center">Used for studying Korean in the University of Athens' Foreign Language Teaching Department.</h4>
 
 <p align="center">
-<img align="center" src="https://media0.giphy.com/media/l4FGxsyqAKNNoDlOE/giphy.gif?cid=790b7611ad34da5d9bcdbba0e50273b4b449ac7e2fe618f8&rid=giphy.gif" title="Merry Christmas ! !">
+<img align="center" src="https://media0.giphy.com/media/l4FGxsyqAKNNoDlOE/giphy.gif?cid=790b7611ad34da5d9bcdbba0e50273b4b449ac7e2fe618f8&rid=giphy.gif" title="파이팅~!">
 </p>
 
 <p style="color:darkviolet">
